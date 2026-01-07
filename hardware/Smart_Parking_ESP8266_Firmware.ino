@@ -3,6 +3,7 @@
  * Description: Firmware for ESP8266 & Ultrasonic Sensor HC-SR04
  * Author: Benhein Michael Ruben L
  * Conference: IEEE ICUIS 2025
+ * Description: Logic for ultrasonic vehicle detection and real-time occupancy state.
  */
 
 #define TRIG_PIN 12  // D6 -> GPIO12
