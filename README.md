@@ -1,6 +1,10 @@
 # AI-Driven Smart Parking System for Urban Mobility Optimization
 AI-Driven Smart Parking System using IoT and Cloud-based Predictive Approach for Urban Mobility Optimization. Presented at IEEE ICUIS 2025.
 
+## 📄 Research Publication
+Published in IEEE Xplore:  
+🔗 https://ieeexplore.ieee.org/document/11380569
+
 ## 📌 Research Overview
 This project presents an end-to-end autonomous sensing framework presented at **IEEE ICUIS 2025**. It bridges the gap between IoT edge sensing and cloud-based deep learning to predict parking availability.
 
